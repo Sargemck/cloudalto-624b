@@ -145,34 +145,35 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-anchor"
+      title = "Cloud Adoption Strategy"
+      description = "Affordable cloud services have changed IT - Adopting the cloud is now necessary to keep up with the competition. CloudAlto is here to help you move into modern technology, and deliver cost and time savings for your business."
+      icon = "icon-layers2"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-layers2"
+      title = "Cloud Migration"
+      description = "The biggest cloud challenge that many business face, moving data and applications to the cloud can quickly become complicated. With decades of cloud migration experience, CloudAlto engineers will make sure that your move is as simple as possible."
+      icon = "icon-cloud-upload"
+      
     [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
+      title = "Development"
+      description = "Placeholder Text"
+      icon = "icon-screen-desktop"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
-      icon = "icon-monitor"
+      title = "Training"
+      description = "Placeholder Text"      
+      icon = "icon-book-open"
 
   # About section
   [params.about]
     enable = true
     title = "About"
-    description = ""
+    description = "CloudAlto was envisioned by a group of likeminded software engineers working in enterprise FinTech. |||to-do|||"
 
     [[params.about.item]]
       name = "Baris McKenna Batiege"
       position = "Founder"
-      description = "An automation engineer specialised in working under a DevOps model, Baris brings years of experience working across some of the biggest names in the tech and finance industries. Enterprise level software from IBM, highly availability from Workday and knowledge of the financial industry from Fidelity give Baris the breadth of experience necessary to help you achieve your cloud based automation goals."
+      description = "An automation engineer specialised in working under a DevOps model, Baris brings years of experience across some of the biggest names in the tech and finance industries. Enterprise level software from IBM, highly availability from Workday and knowledge of the financial industry from Fidelity give Baris the breadth of experience necessary to help you achieve your cloud based automation goals."
       img = "person1.jpg"
       alt = "Person1"
       social = [

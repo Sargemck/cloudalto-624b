@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "cloudalto-624bd"
+    "default": "cloudalto-624bd",
+    "prod": "cloudaltoweb"
   }
 }

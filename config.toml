@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Elate theme"
+title = "CloudAlto"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -47,26 +47,26 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Plan"
     description = "First, we sit with you to find your concerns and the end goal you'd like to reach.  Then we provide a thorough, but straightforward plan on how to reach it."
-    url = "#"
-    button = "Get In Touch"
-    icon = "icon-bulb"
-    img = "img_7.jpg"
+    #url = "#"
+    #button = "Get In Touch"
+    #icon = "icon-bulb"
+    #img = "img_7.jpg"
 
   [[params.intro.item]]
     title = "Develop"
     description = "With your requirements in hand, we build the tools and services you'll need to reach your cloud goals and get the business value you're looking for."
-    url = "#"
-    button = "Click Me"
-    icon = "icon-wrench"
-    img = "img_8.jpg"
+    #url = "#"
+    #button = "Click Me"
+    #icon = "icon-wrench"
+    #img = "img_8.jpg"
 
   [[params.intro.item]]
     title = "Launch"
     description = "Development behind us, we look at your needs and figure out how best to launch while letting you focus on keeping the rest of business running."
-    url = "#"
-    button = "Why us?"
-    icon = "icon-rocket"
-    img = "img_10.jpg"
+    #url = "#"
+    #button = "Why us?"
+    #icon = "icon-rocket"
+    #img = "img_10.jpg"
 
   # Work section
   [params.work]
@@ -142,7 +142,7 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Services"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Explore the different categories of work CloudAlto can take care of for your company:"
 
     [[params.services.item]]
       title = "Cloud Adoption Strategy"
@@ -156,19 +156,19 @@ theme = "hugo-elate-theme"
       
     [[params.services.item]]
       title = "Development"
-      description = "Placeholder Text"
+      description = "Many businesses make the decision that the adoption of cloud opens the way for stronger automation or more features. CloudAlto engineers bring their years of development experience to create the tools and services you envision for your business."
       icon = "icon-screen-desktop"
 
       [[params.services.item]]
       title = "Training"
-      description = "Placeholder Text"      
+      description = "Fear of the length and cost of traning is often a sticking point for the adoption of a cloud based strategy. With us, there is no need to worry! CloudAlto always ensures that we stay with you as long you need in order to train up staff and make using the cloud a breeze. "     
       icon = "icon-book-open"
 
   # About section
   [params.about]
     enable = true
     title = "About"
-    description = "CloudAlto was envisioned by a group of likeminded software engineers working in enterprise FinTech. |||to-do|||"
+    description = "CloudAlto was envisioned by a group of likeminded software engineers working in enterprise FinTech. The three founders had all helped their employers move to the cloud and wanted to share this experience with more businesses, which gave them the idea to start-up CloudAlto."
 
     [[params.about.item]]
       name = "Baris McKenna Batiege"
@@ -181,6 +181,18 @@ theme = "hugo-elate-theme"
         #["icon-facebook", "#"],
         #["icon-linkedin", "#"]
       ]
+      
+    [[params.about.item]]
+    name = "Emmet Delaney"
+    position = "Staff Engineer"
+    description = "A software developer with years of experience amongst industry giants such as IBM and CitiBank, Emmet brings a wealth of knowledge and technical skill to the team. His allegiances generally lie with the JVM side of languages along with a variety of javascript frameworks, but he's always open to new challenges."
+    img = "person1.jpg"
+    alt = "Person1"
+    social = [
+      #["icon-twitter", "#"],
+      #["icon-facebook", "#"],
+      #["icon-linkedin", "#"]
+    ]
 
   # Counters section
   [params.counters]
@@ -246,8 +258,8 @@ theme = "hugo-elate-theme"
   [params.footer]
     enable = true
     copyright = '&copy; CloudAlto Software. All Rights Reserved.' 
-    links = [
-        ["icon-twitter", "#twitter"],
-        ["icon-facebook", "#facebook"],
-        ["icon-youtube", "#youtube"]
-      ]
+    #links = [
+        #["icon-twitter", "#twitter"],
+        #["icon-facebook", "#facebook"],
+        #["icon-youtube", "#youtube"]
+      #]
